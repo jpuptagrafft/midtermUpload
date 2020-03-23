@@ -1,0 +1,62 @@
+html {
+    width: 1000px;
+    background-color: lightgrey;
+    text-align: center;
+    margin: auto;
+}
+body{
+    background-color: lightcyan;
+    text-align: center;
+}
+h3 {
+    float: right;
+    margin-top: 7px;
+    margin-right: 10px;
+
+}
+h1 {
+    text-align: left;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+ul{
+    padding-left: 0px;
+    padding-bottom: 28px;
+    list-style-type: none;
+}
+li{
+    float: left;
+    font-size: large;
+    padding-left: 137px;
+    padding-right: 96px;
+
+}
+p {
+    font-size: large;
+
+}
+#intro{
+    margin: 0px;
+    padding-left: 90px;
+    padding-right: 90px;
+}
+.base{
+    text-align: left;
+    margin-left: 300px;
+}
+#footer{
+    position: relative;
+    clear: both;
+}
+div{
+    padding-left: 21px;
+    padding-right: 21px;
+    float: left;
+}
+#nav{
+    float: none;
+}
+#animals{
+
+    background-color: lightcyan;
+}
